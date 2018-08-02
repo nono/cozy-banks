@@ -7626,10 +7626,29 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
 .TransactionsPage_TransactionPage__Breadcrumb_132Cd {
   margin-top: 2.375rem;
 }.BalancesChart_BalancesChart_38gc4 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 1.5rem;
   background-color: #297ef2;
+}
+.BalancesChart_BalancesChart__chart_3Cob7 {
   overflow: auto;
+  padding-bottom: 10px;
+}
+.BalancesChart_BalancesChart__total_YrVRt {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+.BalancesChart_BalancesChart__totalCurrency_1rkUY {
+  color: #fff;
+}
+.BalancesChart_BalancesChart__subtitle_18qFf {
+  text-align: center;
+  color: #a5c6fa;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin-top: 0.35rem;
 }.FullWidthContainer_FullWidthContainer_zOTMp {
   width: 100vw;
   position: relative;
