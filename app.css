@@ -7101,12 +7101,15 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
   display: inline-block;
   margin-left: 0.125rem;
   margin-right: 0.125rem;
-}.History_History_3O1B4 {
+}
+.History_History_3O1B4 {
   background-color: #297ef2;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   text-align: center;
   color: #fff;
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 .History_History__currentBalance_1KqXp {
   text-align: center;
@@ -8039,10 +8042,6 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
 .Balance_Balance__table_pY_ri tbody .Balance_Balance__solde_1r6bB.Balance_alert_2PsQ0,
 .Balance_Balance__table_pY_ri tbody .Balance_Balance__account_name_3Iip9.Balance_alert_2PsQ0 {
   color: #f52d2d;
-}
-.Balance_Balance__history_2w2v6 {
-  margin-left: -2rem;
-  margin-right: -2rem;
 }.styles_Hero_262Mm {
   margin-left: auto;
   margin-right: auto;
@@ -8922,6 +8921,11 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
     justify-content: center;
     padding-right: 1rem;
   }
+  .History_History_3O1B4 {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-top: -1rem;
+  }
   .TransactionActions_InformativeModal__content_1RDmt {
     height: 100%;
   }
@@ -9191,11 +9195,6 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
   }
   .Balance_Balance__row_2FOKr {
     padding-right: 2.5rem;
-  }
-  .Balance_Balance__history_2w2v6 {
-    margin-left: -1rem;
-    margin-right: -1rem;
-    margin-top: -1rem;
   }
   td.Balance_Balance__account_name_3Iip9 {
     -ms-flex-preferred-size: 60%;
