@@ -7101,6 +7101,9 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
   display: inline-block;
   margin-left: 0.125rem;
   margin-right: 0.125rem;
+}.History_HistoryChart_3vbUP {
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 .History_History_3O1B4 {
   background-color: #297ef2;
@@ -7121,12 +7124,18 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
 .History_History__subtitle_15rGU {
   margin-top: 0.25rem;
   text-transform: uppercase;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   font-weight: bold;
   color: #a2c4f9;
 }
-.History_History__chartContainer_3y92V {
+.History_HistoryChart_3vbUP {
   overflow-y: auto;
+  background-color: #297ef2;
+}
+.History_History_3O1B4 .History_HistoryChart_3vbUP {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
 }.TransactionActions_TransactionAction_2Bv_L {
   cursor: pointer;
   text-decoration: none;
@@ -8921,9 +8930,16 @@ input[type='text'].ToggleRow_ToggleRow__input_RkN1C.ToggleRow_ToggleRow__input--
     justify-content: center;
     padding-right: 1rem;
   }
+  .History_HistoryChart_3vbUP {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
   .History_History_3O1B4 {
     margin-left: -1rem;
     margin-right: -1rem;
+    margin-top: -1rem;
+  }
+  .History_HistoryChart_3vbUP {
     margin-top: -1rem;
   }
   .TransactionActions_InformativeModal__content_1RDmt {
