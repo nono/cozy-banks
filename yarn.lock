@@ -15431,10 +15431,10 @@ scope-eval@0.0.3:
   resolved "https://registry.yarnpkg.com/scope-eval/-/scope-eval-0.0.3.tgz#166f2ccd1f3754429dec511805501f9d6923b5ec"
   integrity sha1-Fm8szR83VEKd7FEYBVAfnWkjtew=
 
-script-ext-html-webpack-plugin@1.8.8:
-  version "1.8.8"
-  resolved "https://registry.yarnpkg.com/script-ext-html-webpack-plugin/-/script-ext-html-webpack-plugin-1.8.8.tgz#faa888a286ce746fcd06a5e0a9e39ed7b9d24f66"
-  integrity sha512-9mxSrvfX8on97tu4pUfLXQ9StKGxfHKSy3NXsYBi+4EpyhI4oUUhE3KEWUViDiTQHmY7u2ztLT5OfOjQRzmJaQ==
+script-ext-html-webpack-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/script-ext-html-webpack-plugin/-/script-ext-html-webpack-plugin-2.0.1.tgz#90ac3d77f1892ad9054c3752f0e4673607f6d9a3"
+  integrity sha512-kUH+XhpjG95ABMnWeKCguM7NCOqSrGlYEnJQKgvPIyq5+FzQuACMLzWOB/Lp7t0sKqKLWNLu8i6MmLRKRo1IUw==
   dependencies:
     debug "^3.1.0"
 
