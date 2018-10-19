@@ -9,7 +9,7 @@ module.exports = {
   resolve: {
     extensions: ['.styl'],
     alias: {
-      'cozy-ui/react': 'cozy-ui/dist/react'
+      'cozy-ui/react': 'cozy-ui/transpiled/react'
     }
   },
   module: {
